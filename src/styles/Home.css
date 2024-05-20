@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+  }
+  
+  .video-section {
+    position: relative;
+    flex: 2;
+  }
+  
+  .config-section {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  video {
+    width: 100%;
+  }
